@@ -20,7 +20,7 @@ h2 {
 }
 
 button {
-  font-family: "Inconsolata", monospace;
+  font-family: 'Chivo Mono', monospace;
   background-color: black;
   border: none;
   color: white;
@@ -148,7 +148,7 @@ body .gist .blob-wrapper {
 
 body .gist .highlight {
   background-color: transparent;
-  font-family: "Droid Sans Mono", monospace;
+  font-family: 'Chivo Mono', monospace;
   font-size: 14px;
 }
 
@@ -194,7 +194,7 @@ body .gist .gist-meta {
 
 @media only screen and (max-width: 600px) {
   body {
-    font-family: "Inconsolata", monospace;
+    font-family: 'Chivo Mono', monospace;
     margin: 1%;
     width: 98%;
     height: 100%;
