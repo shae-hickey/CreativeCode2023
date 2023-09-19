@@ -12,12 +12,15 @@ body {
 h1 {
   color: #e30202;
   font-size: 30pt;
+  text-align: center;
 }
 .special-h2{
   margin-top:0;
+   text-align: center;
 }
 h2 {
   font-size: 24pt;
+   text-align: center;
 /*   margin-top:0; */
 }
 
