@@ -58,14 +58,16 @@ p {
 .center {
   width: 15%;
   padding: 1%;
-  margin: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   display: inline-block;
 }
 
 .right {
   width: 60%;
   padding: 1%;
-  float: left;
+  float: right;
   display: inline-block;
 }
 
@@ -74,7 +76,8 @@ p {
   width: 26%;
   height: 100%;
   display: inline-block;
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
   /*     background-color:red; */
 }
 
@@ -82,7 +85,8 @@ p {
   padding: 2%;
   width: 50%;
   display: inline-block;
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
   /*   background-color:yellow; */
 }
 
