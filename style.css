@@ -58,7 +58,7 @@ p {
 .center {
   width: 15%;
   padding: 1%;
-  float: left;
+  margin: auto;
   display: inline-block;
 }
 
@@ -74,7 +74,7 @@ p {
   width: 26%;
   height: 100%;
   display: inline-block;
-  float: left;
+  margin: auto;
   /*     background-color:red; */
 }
 
@@ -82,7 +82,7 @@ p {
   padding: 2%;
   width: 50%;
   display: inline-block;
-  float: left;
+  margin: auto;
   /*   background-color:yellow; */
 }
 
@@ -119,7 +119,7 @@ iframe {
   width: 100%;
   /*   height: 400px; */
   display: inline-block;
-  float: left;
+  margin: auto;
   margin-bottom: 2%;
 }
 
@@ -127,13 +127,13 @@ iframe {
   width: 100%;
   margin-bottom: 2%;
   display: inline-block;
-  float: left;
+  margin: auto;
 }
 
 img {
   height: 400px;
   display: inline-block;
-  float: left;
+  margin: auto;
   margin-bottom: 2%;
   margin-right: 2%;
 }
